@@ -1,6 +1,6 @@
 # Home-Based Cognitive Retraining System
 
-A web-based platform designed to help parents by predicting the **likelihood of autism** using an **ML-powered questionnaire**. The system provides cognitive skill-building games such as **Hangman, Memory Game, Fast Typing,** and **Jigsaw Puzzle** to enhance various cognitive abilities. Users can maintain profiles, track progress, and upload documents such as prescriptions for easy record-keeping.
+A web-based platform designed to help parents by predicting the **likelihood of autism** using an **ML-powered questionnaire**. The system provides cognitive skill-building games such as **Hangman, Memory Game, Fast Typing,** and **Jigsaw Puzzle** to enhance various cognitive abilities. Users can maintain profiles, track progress, upload relevant documents, and visualize quiz scores on a **stats page** through graphs that reflect cognitive improvement.
 
 ---
 
@@ -11,6 +11,7 @@ A web-based platform designed to help parents by predicting the **likelihood of 
   - **Memory Game**: Boosts short-term memory and concentration.
   - **Fast Typing**: Improves typing speed and reaction time.
   - **Jigsaw Puzzle**: Develops problem-solving and pattern recognition skills.
+- **Stats Page**: Displays quiz results in graphs to show the user's progress over time.
 - **User Profiles**: Track user progress and save personal information.
 - **Document Uploads**: Users can upload relevant prescriptions or related documents.
 
@@ -20,8 +21,6 @@ A web-based platform designed to help parents by predicting the **likelihood of 
 - **Frontend**: React  
 - **Backend**: Express.js, Node.js  
 - **Database**: MongoDB / SQLite (for offline storage)  
-- **Machine Learning Model**: Python (for autism prediction)  
+- **Machine Learning Model**: Python (for autism prediction)
 
 ---
-
-## 📂 Project Structure
